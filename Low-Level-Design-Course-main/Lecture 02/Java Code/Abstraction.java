@@ -1,6 +1,6 @@
 
 /*
-Car Interface --> Act as an interface for Outsiude world to operate the car. 
+Car Interface --> Act as an interface for Outside world to operate the car. 
 This interface tells 'WHAT' all it can do rather then 'HOW' it does that.
 Since this is an interface we cannot directly create Objects of this. We
 need to implement it first and then that child class will have the responsibility to 

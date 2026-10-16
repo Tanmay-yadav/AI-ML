@@ -1,6 +1,10 @@
 import java.util.ArrayList;
 import java.util.List;
+/*
+* Open-Close Principle: A Class should be opem for extension but close for modification.
+    ** A Class should be extendable without modifying the class itself.
 
+*/
 // Product class representing any item in eCommerce.
 class Product {
     public String name;

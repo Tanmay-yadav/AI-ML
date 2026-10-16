@@ -1,5 +1,21 @@
 import java.util.ArrayList;
 import java.util.List;
+/* 
+*  Single Responsibility Principle: A class should only have one reason to change.
+    ** A Class should have only one job or responsibility.
+
+
+
+
+
+
+
+
+*/
+
+
+
+
 
 // Product class representing any item in eCommerce.
 class Product {

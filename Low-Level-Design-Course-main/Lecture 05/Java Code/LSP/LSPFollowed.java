@@ -1,6 +1,11 @@
 import java.util.ArrayList;
 import java.util.List;
 
+/* Liskov Substitution Principle: SubClasses Should be substitutable for their Base Classes  */
+
+
+
+
 // 1. DepositOnlyAccount interface: only allows deposits
 interface DepositOnlyAccount {
     void deposit(double amount);
